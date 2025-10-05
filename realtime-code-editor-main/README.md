@@ -1,3 +1,3 @@
-### Demo
+### Available at
 
-https://code-sync.codersgyan.com/
+
